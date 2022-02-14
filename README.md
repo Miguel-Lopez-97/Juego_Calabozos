@@ -24,7 +24,7 @@ En el repositorio das click en el botón verde que dice code y seleccionas la ma
 
 ## Despliegue 📦
 
-_El despliegue de este proyecto se hizo en [**Page GitHub**]_
+_El despliegue de este proyecto se hizo en [**Page GitHub**](https://miguel-lopez-97.github.io/Juego_Calabozos/)_
 
 ## Construido con 🛠️
 
